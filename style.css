@@ -1,0 +1,7 @@
+.header{
+    border: solid;
+    background-color: rgb(219, 160, 224);
+    display: flex;
+    justify-content: last baseline;
+}
+
